@@ -32,7 +32,7 @@ Siempre estoy abierto a colaborar en proyectos interesantes, ya sea en el campo 
 
 <h2>📫 Contáctame:</h2>
 LinkedIn: Arturo Calanche
-Email: arturo.email@example.com
+Email: aarturoale1994@gmail.com
 ¡Gracias por pasar por aquí y echar un vistazo a mi trabajo! 🚀
 <!---
 A2calanche/A2calanche is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
